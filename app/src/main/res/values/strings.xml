@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AzwarXAgit</string>
+    <string name="pokemon">POKEMON</string>
+    <string name="azwaaar">Achmad Azwar Misbah</string>
+    <string name="powered_by">Powered By:</string>
+    <string name="cari_pokemon">Cari Pokemon...</string>
+    <string name="pokemons">Pokemon</string>
+</resources>
